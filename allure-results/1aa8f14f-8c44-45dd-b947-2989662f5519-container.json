@@ -1,0 +1,1 @@
+{"uuid":"1aa8f14f-8c44-45dd-b947-2989662f5519","name":"org.sozkan.base.BaseTest.start","children":["630d4328-7b9b-46e8-93d5-fb9e1f3f3fe6"],"description":"","befores":[{"name":"start","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1754409815240,"stop":1754409815799}],"afters":[],"start":1754409815240,"stop":1754409815799}
