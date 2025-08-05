@@ -4,7 +4,7 @@ import org.sozkan.base.BaseTest;
 import org.sozkan.utils.LoggerUtil;
 import org.testng.annotations.Test;
 
-public class PurchasingBusTicketTest extends BaseTest {
+public class PurchasingBusTicketAndHotelFilterTest extends BaseTest {
 
     @Test(priority = 1, description = "Purchasing Bus Ticket")
     public void testPurchasingBusTicket(){
