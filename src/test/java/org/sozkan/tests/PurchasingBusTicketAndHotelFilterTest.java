@@ -22,10 +22,5 @@ public class PurchasingBusTicketAndHotelFilterTest extends BaseTest {
         homePage.selectHotelOrigin("İstanbul");
         hotelSearchPage.validateFilterResult("Yarım Pansiyon");
         hotelSearchPage.validateSorting();
-        try {
-            Thread.sleep(5000);
-        } catch (InterruptedException e) {
-            throw new RuntimeException(e);
-        }
     }
 }
